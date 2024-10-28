@@ -9,7 +9,7 @@
 - 🌱  PhD in Applied and Computational Mathematics  
 - 🌱  Civil Mathematical Engineer
 - 📗 Author of the  [book](https://ems.press/books/mems/285)
-- 🧑‍🏫  Publications [available](https://www.researchgate.net/profile/Sebastian-Moraga-Scheuermann)
+- 🧑‍🏫  Publications [available](https://scholar.google.ca/citations?user=BuA_5XsAAAAJ&hl=en)
 - ⚡ my webpage [here](https://sites.google.com/view/sebanthalas)
 <be>
 
